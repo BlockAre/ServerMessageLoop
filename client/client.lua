@@ -1,4 +1,4 @@
-local value = 'This is BlockAre Script'
+local value = 'ThisIsYourText'
 local alwaystrue = true
 
 Citizen.CreateThread(function()
